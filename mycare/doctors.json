@@ -1,0 +1,154 @@
+{
+    "products":[
+        {
+            "id":1,
+            "doctor_name":"Ram",
+            "departement":"cardialogy",
+            "hospital_name":"Yashoda Hospitals"
+        },
+        {
+            "id":2,
+            "doctor_name":"Vijay Kumar",
+            "departement":"orthopedic",
+            "hospital_name":"Appolo Hospitals"
+        },
+        {
+            "id":3,
+            "doctor_name":"Ajay",
+            "departement":"general_medicine",
+            "hospital_name":"Gayathri Hospitals"
+        },
+        {
+            "id":4,
+            "doctor_name":"mishra",
+            "departement":"neurology",
+            "hospital_name":"J.J. Hospital"
+        },
+        {
+            "id":5,
+            "doctor_name":"Anuradha",
+            "departement":"pulmology",
+            "hospital_name":"Mythri Hospital"
+        },
+        {
+            "id":6,
+            "doctor_name":"rajesh",
+            "departement":"nephrology",
+            "hospital_name":"Life Care Hospital"
+        },
+        {
+            "id":7,
+            "doctor_name":"Ramanjaneyulu",
+            "departement":"opthomology",
+            "hospital_name":"Centre For Sight, Kurnool"
+        },
+        {
+            "id":8,
+            "doctor_name":"Ram Deepmala",
+            "departement":"orthopedic",
+            "hospital_name":"Deepmala Hospital, Kanpur"
+        },
+        {
+            "id":9,
+            "doctor_name":"Durga Reddy",
+            "departement":"Dentist",
+            "hospital_name":"Reddy Clinin, Vizag"
+        },
+        {
+            "id":10,
+            "doctor_name":"Namita Prajapati",
+            "departement":"gynaecology",
+            "hospital_name":"Narayana Hospital, Bangalore"
+        },
+        {
+            "id":11,
+            "doctor_name":"Narayan Murti",
+            "departement":"Plastic surgeon",
+            "hospital_name":"Deepmala Hospital, Kanpur"
+        },
+        {
+            "id":12,
+            "doctor_name":"Ramya Sree",
+            "departement":"Dentist",
+            "hospital_name":"Sree Hospital, Vishakhapatnam"
+        },
+        {
+            "id":13,
+            "doctor_name":"Jaideep",
+            "departement":"cardialogy",
+            "hospital_name":"Fortis Hospital, Noida"
+        },
+        {
+            "id":14,
+            "doctor_name":"Arvind Kumar",
+            "departement":"Physician",
+            "hospital_name":"Kumar Clinic, Lucknow"
+        },
+        {
+            "id":15,
+            "doctor_name":"Kailash Gupta",
+            "departement":"Surgeon",
+            "hospital_name":"Gupta Polyclinic, Kolkata"
+        },
+        {
+            "id":16,
+            "doctor_name":"A K Mehra",
+            "departement":"Dermatologist",
+            "hospital_name":"Chawla Hospital, Ghaziabad"
+        },
+        {
+            "id":17,
+            "doctor_name":"Rajshree",
+            "departement":"Pathology",
+            "hospital_name":"Divine Path Lab, Noida"
+        },
+        {
+            "id":18,
+            "doctor_name":"Shivaji",
+            "departement":"neurology",
+            "hospital_name":"Bose Hospital, Chennai"
+        },
+        {
+            "id":19,
+            "doctor_name":"Aparna Singh",
+            "departement":"Dentist",
+            "hospital_name":"City Hospital, Raipur"
+        },
+        {
+            "id":20,
+            "doctor_name":"Ritu Bhardwaj",
+            "departement":"Physiotherapy",
+            "hospital_name":"B K Hospital, Hisar"
+        },
+        {
+            "id":21,
+            "doctor_name":"Avinash Pathak",
+            "departement":"orthopedic",
+            "hospital_name":"Nice Hospital, Ambala"
+        },
+        {
+            "id":22,
+            "doctor_name":"Ramesh Singh",
+            "departement":"general_medicine",
+            "hospital_name":"Vedic Hospital, Hyderabad"
+        },
+        {
+            "id":23,
+            "doctor_name":"Arjun",
+            "departement":"cardialogy",
+            "hospital_name":"Max Hospital, Delhi"
+        },
+        {
+            "id":24,
+            "doctor_name":"Shubhash Yadav",
+            "departement":"Surgeon",
+            "hospital_name":"Shiv Hospital, Varanasi"
+        },
+        {
+            "id":25,
+            "doctor_name":"Namitha Sree",
+            "departement":"Chiropractor",
+            "hospital_name":"N S Clinic, Pryagraj"
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "products":[
+        {
+            "id":1,
+            "hospital_name":"Yashoda Hospital",
+            "phone_number":"04045674567",
+            "branch":"Secundrabad",
+            "pin_code":"500036"
+        },
+        {
+            "id":2,
+            "hospital_name":"yashoda hospitals",
+            "phone_number":"04045674567",
+            "branch":"Somajiguda",
+            "pin_code":"500044"
+        },
+        {
+            "id":3,
+            "hospital_name":"yashoda hospitals",
+            "phone_number":"04045674567",
+            "branch":"Malakpet",
+            "pin_code":"500013"
+        },
+        {
+            "id":4,
+            "hospital_name":"yashoda hospitals",
+            "phone_number":"04045674567",
+            "branch":"HitechCity",
+            "pin_code":"500023"
+        },
+        {
+            "id":5,
+            "hospital_name":"Appolo Hospitals",
+            "phone_number":"1023456789",
+            "branch":"Jubleehills",
+            "pin_code":"500100"
+        },
+        {
+            "id":6,
+            "hospital_name":"Appolo Hospitals",
+            "phone_number":"1023456789",
+            "branch":"Hydernagar",
+            "pin_code":"500130"
+        },
+        {
+            "id":7,
+            "hospital_name":"Srikara Hospitals",
+            "phone_number":"1234567890",
+            "branch":"Miyapur",
+            "pin_code":"500200"
+        },
+        {
+            "id":8,
+            "hospital_name":"Pranam Hospital",
+            "phone_number":"1234567890",
+            "branch":"Madinaguda",
+            "pin_code":"500200"
+        },
+        {
+            "id":9,
+            "hospital_name":"Agarwal's Eye Hospital",
+            "phone_number":"1234567890",
+            "branch":"Madinaguda",
+            "pin_code":"500200"
+        },
+        {
+            "id":10,
+            "hospital_name":"Centre For Sight, Rajahmundry",
+            "phone_number":"0883 2446555",
+            "branch":" Seshayya Metta Rajamahendravaram",
+            "pin_code": "533101"
+        },
+        {
+            "id":11,
+            "hospital_name":"Manipal Super Specialty Hospital",
+            "phone_number":"0866 2498200",
+            "branch":"KRISHNA Vijayawada ",
+            "pin_code": "533102"  
+        },
+        {
+            "id":12,
+            "hospital_name":"Centre For Sight, Kurnool",
+            "phone_number":"8518255226",
+            "branch":" Budhawarpet, Kurnool,",
+            "pin_code": "523101"
+        },
+        {
+            "id":13,
+            "hospital_name":"Abc Hospitals",
+            "phone_number":"0891-2500069",
+            "branch":"Visakhapatnam ,",
+            "pin_code": "530002"
+        },
+        {
+            "id":14,
+            "hospital_name":"Abhaya Critical Care",
+            "phone_number":"0891-2703444",
+            "branch":"Vizag ,",
+            "pin_code": "530002"
+        },
+        {
+            "id":15,
+            "hospital_name":"Ahalya Nursing Home",
+            "phone_number":"9246427459",
+            "branch":" Guntur,",
+            "pin_code": "522002"
+        },
+        {
+            "id":16,
+            "hospital_name":"Akshitha Hospitals",
+            "phone_number":"08413-222231",
+            "branch":"Shamshabad ,",
+            "pin_code": "501218"
+        },
+        {
+            "id":17,
+            "hospital_name":"Baby Hospital",
+            "phone_number":"08554-237969",
+            "branch":" Ananthapur,",
+            "pin_code": "515001"
+        },
+        {
+            "id":19,
+            "hospital_name":"C.R.Reddy Hospital",
+            "phone_number":"08624-252285",
+            "branch":" Nellore,",
+            "pin_code": "524101"
+        },
+        {
+            "id":20,
+            "hospital_name":"Dr. Ramesh Cardiac And Multispeciality Hospital (P)",
+            "phone_number":"0866-2484800",
+            "branch":"Vijayawada ",
+            "pin_code": "520008"
+        },
+        {
+            "id":21,
+            "hospital_name":"G.B.R. Multi Speciality Hospital",
+            "phone_number":"9052151113",
+            "branch":"Vijayawada ",
+            "pin_code": "500060"
+        },
+        {
+            "id":22,
+            "hospital_name":"Gayathri Hospitals (A Division Of Jd Hospitals Pvt",
+            "phone_number":"0877-2253714",
+            "branch":"Tirupati ,",
+            "pin_code": "517501"
+        },
+        {
+            "id":23,
+            "hospital_name":"Harsha Hospitals",
+            "phone_number":"0883-2469403",
+            "branch":" Rajamundry",
+            "pin_code": "533103"
+        },
+        {
+            "id":24,
+            "hospital_name":"J.J. Hospital",
+            "phone_number":"040-23712106",
+            "branch":"Andhra Pradesh",
+            "pin_code": "500038"
+        },
+        {
+            "id":25,
+            "hospital_name":"Hegde Nursing Home",
+            "phone_number":"040-2345679",
+            "branch":" Dilsukhnagar",
+            "pin_code": "500033"
+        },
+        {
+        "id":26,
+        "hospital_name":"Kamala Orthopeadic Nursing Home",
+        "phone_number":"0866-2430665",
+        "branch":"Vizag ",
+        "pin_code": "520002"
+
+        },
+        {
+            "id":27,
+            "hospital_name":"Life Care Hospital",
+            "phone_number":"9505256733",
+            "branch":" Nellore",
+            "pin_code": "524201"
+        },
+        {
+            "id":28,
+            "hospital_name":" M.P.S. Memorial Hospital, Ongole",
+            "phone_number":"08592-230533",
+            "branch":"Ongole",
+            "pin_code": "523002"
+        },
+        {
+            "id":29,
+            "hospital_name":"Mithra Maternity Nursing Home",
+            "phone_number":"08942-224577",
+            "branch":"Srikakulam ",
+            "pin_code": "532001"
+        },
+        
+        {
+            "id":30,
+            "hospital_name":"Mythri Hospital",
+            "phone_number":"08554-274630",
+            "branch":"Ananthapur ",
+            "pin_code": "515001"
+        }
+    ]
+}

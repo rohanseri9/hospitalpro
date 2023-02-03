@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="showcase"> 
+        <!-- id= "....."    -->
+       <div class="navbar">
+           <a href="index.html" class="logo">MYcare.org</a>  
+   
+           <ul>
+               <li><a href="index.html"> Home </a> </li>
+               <li><a href="book.html"> Book Appoinment </a> </li>
+               <li><a href="medicine.html"> medicine</a> </li>
+               <li><a href="hospital's.html">hospital's </a></li>
+               <li><a href="doctor's.html">doctor's</a></li>
+               <li><a href="contact.html"> Contact </a> </li> 
+           </ul>
+       </div>
+   
+    
+    <div class="doctors">
+        <select id="departement_list">
+            <option value="100">select</option>
+            <option value="0">cardialogy</option>
+            <option value="1">orthopedic</option>
+            <option value="2">general_medicine</option>
+            <option value="3">nephrology</option>
+            <option value="4">opthomology</option>
+            <option value="5">pulmology</option>
+        </select>
+        <input type="button" onclick="Validate()" value="Search" class="select"/>
+        <button onclick="redisplay()" class="refresh">Refresh</button>
+        <!-- <div class="search">
+            Select the departement you are looking for
+        </div> -->
+        <div class="table">
+            <table id="doc"></table>
+        </div>
+        
+    </div>
+    
+    <script src="./doctors_info.js"></script>
+</body>
+</html>
